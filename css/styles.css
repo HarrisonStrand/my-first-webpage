@@ -1,11 +1,14 @@
 h1 {
-  color: red;
+  color: rgb(103, 92, 143);
+  font-size: 50px;
   text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h3 {
